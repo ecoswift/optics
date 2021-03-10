@@ -6,7 +6,7 @@
 
 |  | Features |
 |:---------:|:---------------------------------------------------------------|
-| &#127916; | “[Vine](http://vine.co)-like” video clip recording and editing |
+| &#127916; | “[Vine](http://vine.co)ish” short clip recording and editing |
 | &#128444; | photo capture (raw, jpeg, and video frame) |
 | &#128070; | customizable gestural interaction and interface |
 | &#128160; | [ARKit integration](https://developer.apple.com/arkit/) (beta) |
