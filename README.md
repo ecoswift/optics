@@ -1,4 +1,4 @@
-<p><img src="https://raw.github.com/NextLevel/NextLevel/master/NextLevel%402x.png" alt="Next Level" style="max-width:100%;"></p>
+`<p><img src="https://raw.github.com/NextLevel/NextLevel/master/NextLevel%402x.png" alt="Next Level" style="max-width:100%;"></p>`
 
 `NextLevel` is a [Swift](https://developer.apple.com/swift/) camera system designed for easy integration, customized media capture, and image streaming in iOS. Integration can optionally leverage `AVFoundation` or `ARKit`.
 
@@ -31,15 +31,7 @@ Need a different version of Swift?
 * `4.2` - Target your Podfile to the `swift4.2` branch
 
 ## Quick Start
-
-```ruby
-
-# CocoaPods
-pod "NextLevel", "~> 0.16.3"
-
-# Carthage
-github "nextlevel/NextLevel" ~> 0.16.3
-
+```
 # Swift PM
 let package = Package(
     dependencies: [
@@ -277,4 +269,4 @@ NextLevel is a community – contributions and discussions are welcome!
 
 ## License
 
-NextLevel is available under the MIT license, see the [LICENSE](https://github.com/NextLevel/NextLevel/blob/master/LICENSE) file for more information.
+looks is available under the MIT license, see the [LICENSE](https://github.com/NextLevel/NextLevel/blob/master/LICENSE) file for more information.
